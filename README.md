@@ -6,8 +6,8 @@ The Image to PDF Converter is a simple and efficient web-based tool built with *
 
 **Features**
 
--Upload one or multiple images.
-Rearrange images before converting.
+- Upload one or multiple images.
+- Rearrange images before converting.
 Convert images into a single PDF file.
 Lightweight and easy-to-use interface.
 Works directly in the browser (no backend required).
