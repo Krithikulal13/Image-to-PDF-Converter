@@ -12,6 +12,13 @@ Convert images into a single PDF file.
 Lightweight and easy-to-use interface.
 Works directly in the browser (no backend required).
 
+
+- Responsive design for desktop and mobile
+- Reusable header, footer, and logo on all pages
+- Clean and semantic HTML structure
+- CSS grid and flexbox for layout
+- Simple contact form UI (no backend)
+
 ---
 
 **Technologies Used**
