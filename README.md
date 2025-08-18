@@ -18,7 +18,7 @@ The Image to PDF Converter is a simple and efficient web-based tool built with *
 
 **Technologies Used**
 
-- *HTML* – Structure of the web page
+- HTML – Structure of the web page
 - CSS – Styling and layout
 - JavaScript – Core logic for converting images to PDF
 - jsPDF Library – For PDF generation
